@@ -5,3 +5,14 @@ The code evaluate linear regression model for predicting house prices based on t
 #### Datasets
 The dataset: 1. train.csv - the training set 2. test.csv - the test set 3. data_description.txt -  has full description of each column, 4. sample_submission.csv 
 Dataset link that was provided : https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data?select=test.csv
+
+#### Technologies Used:
+1.Python: programming language used.
+
+2.pandas: Utilized for data manipulation and analysis.
+
+3.Matplotlib:for data visualization.
+
+4.Seaborn:for plotting
+
+5.scikit-learn: Provides machine learning tools for building regression models, feature scaling, and polynomial feature generation.
