@@ -17,7 +17,7 @@ Dataset link that was provided : https://www.kaggle.com/competitions/house-price
 
 5.scikit-learn: Provides machine learning tools for building regression models, feature scaling, and polynomial feature generation.
 
-####R squared score: 0.4507077777046916
+####R squared score: 0.4507077777046916 
 R-squared is a statistical measure that helps us understand how well the independent variables in a regression model explain the variation of the dependent variable.
 It's a number between 0 and 1, or 0% and 100%.
 
